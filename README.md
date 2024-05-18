@@ -3,7 +3,7 @@
 
 Skills: C++ / JAVA / C# / HTML/PYTHON
 
-- 🌱 I’m currently learning PYTHON 
+- 🌱 I’m currently learning PYTHON  
 - 💬 Ask me about Java Project 
 
 
